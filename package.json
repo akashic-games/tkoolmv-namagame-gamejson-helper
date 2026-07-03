@@ -25,5 +25,12 @@
     "textlint-rule-max-ten": "^4.0.4",
     "textlint-rule-no-mix-dearu-desumasu": "^5.0.0",
     "vite": "^5.0.0"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "npm",
+      "version": ">=11.11.0",
+      "onFail": "error"
+    }
   }
 }
